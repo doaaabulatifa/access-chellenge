@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(203, 228, 234);
+}
+
+img{
+    height: 400px;
+    width: 400px;
+    padding: 2px;
+   
+  
+}
+header{
+    color: blue;
+    text-align: center;
+    margin: 10px;
+}
+h2{
+    color: brown;
+    font-family:sans-serif;
+}
+h3{
+    color: rgb(1, 38, 38);
+}
+section{
+    color: rgb(11, 1, 26);
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+}
